@@ -1,0 +1,5 @@
+{
+  "name": "StreamSafe - Copyright Checker",
+  "description": "Check if songs are safe for streaming on YouTube and Twitch using AI-powered analysis.",
+  "requestFramePermissions": []
+}
